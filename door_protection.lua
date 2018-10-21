@@ -1,5 +1,6 @@
 -- Author: ZeliowPlay
 -- Work of private doors from OpenSecurity using a combination lock
+-- Version: 0.0.1
 
 
 -- User password
