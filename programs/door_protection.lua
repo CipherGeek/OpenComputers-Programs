@@ -1,4 +1,4 @@
--- Author: ZeliowPlay
+-- Author: CipherGeek
 -- Work of private doors from OpenSecurity using a combination lock
 -- Version: 0.0.1
 
